@@ -17,4 +17,4 @@ c = a/b
 
 a=float(input("birinchi sonni kiriting: "))
 b=int(input("Ikkinchi sonni kiriting: "))
-print(a+b, a-b, a*b, a/b)
+print(f"{a+b}, {a-b}, {a*b}, {a/b}")

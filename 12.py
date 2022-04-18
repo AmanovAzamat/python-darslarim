@@ -1,8 +1,8 @@
-#son = float(input("Juft son kiriting: "))
-#if son%2!=0:
-#    print("Bu son juft emas.")
-#else:
-#    print("Rahmat!")
+son = float(input("Juft son kiriting: "))
+if son%2!=0:
+    print("Bu son juft emas.")
+else:
+    print("Rahmat!")
 ###########################################################
 #yosh = int(input("Yoshingiz nechida? "))
 #if yosh<=4 or yosh>=60:
@@ -73,14 +73,14 @@
 #else:
 #  print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
 #########################################################
-users = ['alisher1983','aziza','yasina' 'umar']
+#users = ['alisher1983','aziza','yasina' 'umar']
 
-login = input("Yangi login tanlang:")
+#login = input("Yangi login tanlang:")
 
-if login in users:
-    print('Login band, yangi login tanalng!')
-else:
-    print("Xush kelibsiz!")
+#if login in users:
+#    print('Login band, yangi login tanalng!')
+#else:
+#    print("Xush kelibsiz yangi login qabul qilindi.")
 
 
 
